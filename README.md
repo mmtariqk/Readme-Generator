@@ -2,7 +2,12 @@
 # README-generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This is an application that will generate a professional README file using the user's input. This application is built with JavaScript and Node, using the inquirer package. See a link of a walk-through on how to use this [here](https://drive.google.com/file/d/1pH8ihFgzYuQkun5mEPxZbvpeM0W03mMg/view?usp=sharing) 
+This is an application that will generate a professional README file using the user's input. This application is built with JavaScript and Node, using the inquirer package. See a link of a walk-through on how to use this
+
+## Walkthrough Videos
+
+https://drive.google.com/file/d/1tETBnEKnCrydg0uoTgEG7Az9kziEjtlZ/view?usp=sharing
+https://drive.google.com/file/d/1yB171RRlnljbr8I8H8f-mMlc41L7NpVd/view?usp=sharing
 
 ## Table of Contents
 * [Installation](#Installation)
