@@ -1,10 +1,11 @@
 {
   "name": "readme-generator",
   "version": "1.0.0",
+  "description": "![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^4.1.0",
-    "inquirer": "^8.0.0"
+    "axios": "^0.21.1",
+    "inquirer": "^8.1.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -12,6 +13,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
