@@ -3,7 +3,7 @@ const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMD = require("./utils/generateMarkdown");
 
-// Getting input from user here
+// Getting input from user here. See below
 const queryQuestions = () => {
     return inquirer.prompt([
         {
@@ -30,7 +30,7 @@ const queryQuestions = () => {
                   if (regextest.test (emailInput)) {
                   return true;
                 } else {
-                  console.log("Please enter your correct e-mail address!");
+                  console.log(" Please enter your correct e-mail address!");
                   return false;
                 }
               }
