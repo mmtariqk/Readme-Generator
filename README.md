@@ -26,7 +26,7 @@ To install this application and necessary tools follow these steps:
 
   
 ## Usage
-To use this application to easily create a professional README file, simply type "node index" while making sure you're in the correct directory. Answer the prompts, and when the prompts are finished, a README file will be created in the root folder. If by any chance one already existed it will overwrite that file altogether with new one.
+To use this application to easily create a professional README file, first install the necessary dependencies by using npm install or npm i, run the following commands such as node index.js or node index in your terminal while making sure you're in the correct directory. Answer the prompts, and when the prompts are finished, a README file will be created in the root folder. If by any chance one already existed it will overwrite that file altogether with new one.
 
 
 ## License-Information 
