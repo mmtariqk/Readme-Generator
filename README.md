@@ -10,6 +10,10 @@ https://drive.google.com/file/d/1MEhMQPma0eFeIZPCyioh1RxzVrK27HhY/view
 ## Walkthrough Video
 https://drive.google.com/file/d/1zw03FSg860Sl6YvGk6Qn0LoH1164rwwd/view
 
+## Screenshot
+
+<img width="1413" alt="Screen Shot 2021-07-13 at 11 10 00 AM" src="https://user-images.githubusercontent.com/77028806/125503633-eebdfeb1-3df2-405c-abaf-6c2efe549783.png">
+
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
