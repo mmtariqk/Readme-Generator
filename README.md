@@ -8,7 +8,7 @@ This is an application that will generate a professional README file using the u
 https://drive.google.com/file/d/1MEhMQPma0eFeIZPCyioh1RxzVrK27HhY/view
 
 ## Walkthrough Video
-https://drive.google.com/file/d/1zw03FSg860Sl6YvGk6Qn0LoH1164rwwd/view
+https://drive.google.com/file/d/12LlzsaEK9PhBhkkps0rqAzd6FHJyg98A/view
 
 ## Screenshot
 
