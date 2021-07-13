@@ -4,6 +4,9 @@
 ## Description
 This is an application that will generate a professional README file using the user's input from commond line. This app is built with JavaScript and NodeJS, using the inquirer NPM package. See a link of a walk-through videos on how to use this app:
 
+## Demo
+https://drive.google.com/file/d/1MEhMQPma0eFeIZPCyioh1RxzVrK27HhY/view
+
 ## Walkthrough Video
 https://drive.google.com/file/d/1zw03FSg860Sl6YvGk6Qn0LoH1164rwwd/view
 
