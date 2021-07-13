@@ -117,7 +117,7 @@ function WriteToFile(fileName, data) {
         if (err) {
             throw err;
         }
-        console.log("You have successfully generated your README.md file");
+        console.log("Successfully generated your README.md file inside dist folder");
     });
 }
 
@@ -125,7 +125,7 @@ function WriteToFile(fileName, data) {
     try {
         const answers = await queryQuestions();
         generateMD(answers);
-        WriteToFile("generatedREADME.md", generateMD(answers));
+        WriteToFile("./dist/generatedREADME.md", generateMD(answers));
 
     } catch (err) {
         console.log(err);
